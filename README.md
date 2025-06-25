@@ -49,7 +49,9 @@ ________________________________________
 •	🤖 Enhanced Automation & QC Tools
 
 •	⚙️ Improved SEO Capabilities
+
 •	📱 iOS & Android Applications
+
 •	🌍 Expansion to Additional Neighborhoods & States
 
 
